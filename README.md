@@ -71,40 +71,42 @@ TiffinHub/
 
 ### Clone the Repository
 
-git clone https://github.com/your-usernameTiffinHub.git
+```bash
+git clone https://github.com/your-username/TiffinHub.git
 cd TiffinHub
+```
 
 ### Install Dependencies
 
 #### Backend
 
-cd backend
-npm install
+-cd backend
+-npm install
 
 #### Frontend
 
-cd frontend
-npm install
+-cd frontend
+-npm install
 
 ## Run the Project
 
 ### Start Backend
 
-cd backend
-npm start
+-cd backend
+-npm start
 
 ### Start Frontend
 
-cd frontend
-npm run dev
+-cd frontend
+-npm run dev
 
 ## Environment Variables
 
 Create a `.env` file inside the backend folder.
 
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+-PORT=5000
+-MONGO_URI=your_mongodb_connection_string
+-JWT_SECRET=your_jwt_secret
 
 ##  Author
 **Moulyalakshmi K**
