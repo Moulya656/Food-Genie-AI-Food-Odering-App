@@ -106,6 +106,3 @@ JWT_SECRET=your_jwt_secret
 ##  Author
 **Moulyalakshmi K**
 
-## 📄 License
-
-This project is developed for educational purposes.
