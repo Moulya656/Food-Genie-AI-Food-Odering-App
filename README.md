@@ -39,7 +39,7 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that 
 - JSON Web Token (JWT)
 - bcrypt.js
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 TiffinHub/
@@ -104,7 +104,7 @@ cd ../frontend
 npm run dev
 ```
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the backend folder.
 
