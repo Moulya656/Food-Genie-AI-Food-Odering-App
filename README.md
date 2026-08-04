@@ -39,8 +39,9 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that 
 - JSON Web Token (JWT)
 - bcrypt.js
 
-## Project Structure
+## 📁 Project Structure
 
+```text
 TiffinHub/
 ├── frontend/
 │   ├── public/
@@ -63,12 +64,14 @@ TiffinHub/
 │   └── package-lock.json
 │
 ├── .gitignore
+└── README.md
+```
 
-## ⚙️ Installation
+## Installation
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/TiffinHub.git
+git clone https://github.com/your-usernameTiffinHub.git
 cd TiffinHub
 
 ### Install Dependencies
