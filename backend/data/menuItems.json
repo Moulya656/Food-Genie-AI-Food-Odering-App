@@ -1,0 +1,190 @@
+[
+  {
+    "kitchenName": "Amma's Tiffin",
+    "name": "Rava Idli & Chutney",
+    "description": "",
+    "price": 69,
+    "category": "breakfast",
+    "dietType": "veg",
+    "spiceLevel": "mild",
+    "tags": [
+      "semolina",
+      "steamed",
+      "coconut chutney"
+    ],
+    "imageCategory": "idly",
+    "image": "/images/RavaIdliAndChutney.jpeg"
+  },
+  {
+    "kitchenName": "Amma's Tiffin",
+    "name": "Bisi Bele Bath",
+    "description": "",
+    "price": 89,
+    "category": "lunch",
+    "dietType": "veg",
+    "spiceLevel": "medium",
+    "tags": [
+      "lentils",
+      "rice",
+      "tamarind"
+    ],
+    "imageCategory": "rice",
+    "image": "/images/BisiBeleBath.jpeg"
+  },
+  {
+    "kitchenName": "Amma's Tiffin",
+    "name": "Mysore Masala Dosa",
+    "description": "",
+    "price": 79,
+    "category": "breakfast",
+    "dietType": "veg",
+    "spiceLevel": "medium",
+    "tags": [
+      "red chutney",
+      "crispy",
+      "potato masala"
+    ],
+    "imageCategory": "dosa",
+    "image": "/images/MysoreMasalaDosa.jpeg"
+  },
+  {
+    "kitchenName": "Punjab Rasoi",
+    "name": "Butter Chicken Combo",
+    "description": "",
+    "price": 189,
+    "category": "dinner",
+    "dietType": "nonveg",
+    "spiceLevel": "medium",
+    "tags": [
+      "creamy",
+      "tandoori",
+      "naan"
+    ],
+    "imageCategory": "butter-chicken",
+    "image": "/images/ButterChickenCombo.jpeg"
+  },
+  {
+    "kitchenName": "Punjab Rasoi",
+    "name": "Dal Makhani & Roti",
+    "description": "",
+    "price": 129,
+    "category": "dinner",
+    "dietType": "veg",
+    "spiceLevel": "mild",
+    "tags": [
+      "black lentils",
+      "ghee",
+      "slow-cooked"
+    ],
+    "imageCategory": "rice",
+    "image": "/images/DalMakhaniRoti.jpeg"
+  },
+  {
+    "kitchenName": "Punjab Rasoi",
+    "name": "Amritsari Chole Kulche",
+    "description": "",
+    "price": 99,
+    "category": "lunch",
+    "dietType": "veg",
+    "spiceLevel": "spicy",
+    "tags": [
+      "chickpeas",
+      "tangy",
+      "street-style"
+    ],
+    "imageCategory": "samosa",
+    "image": "/images/AmritsariCholeKulche.jpeg"
+  },
+  {
+    "kitchenName": "Coastal Curry House",
+    "name": "Meen Curry & Rice",
+    "description": "",
+    "price": 179,
+    "category": "lunch",
+    "dietType": "nonveg",
+    "spiceLevel": "spicy",
+    "tags": [
+      "fish",
+      "coconut",
+      "kokum"
+    ],
+    "imageCategory": "biryani",
+    "image": "/images/MeenCurryRice.jpeg"
+  },
+  {
+    "kitchenName": "Coastal Curry House",
+    "name": "Prawn Ghee Roast",
+    "description": "",
+    "price": 219,
+    "category": "dinner",
+    "dietType": "nonveg",
+    "spiceLevel": "spicy",
+    "tags": [
+      "prawns",
+      "byadgi chilli",
+      "ghee"
+    ],
+    "imageCategory": "butter-chicken",
+    "image": "/images/PrawnGheeRoast.jpeg"
+  },
+  {
+    "kitchenName": "Coastal Curry House",
+    "name": "Vegetable Stew & Appam",
+    "description": "",
+    "price": 139,
+    "category": "breakfast",
+    "dietType": "veg",
+    "spiceLevel": "mild",
+    "tags": [
+      "coconut milk",
+      "lace pancake"
+    ],
+    "imageCategory": "idly",
+    "image": "/images/VegetableStewAppam.jpeg"
+  },
+  {
+    "kitchenName": "Bengal Bhog",
+    "name": "Shorshe Ilish",
+    "description": "",
+    "price": 229,
+    "category": "lunch",
+    "dietType": "nonveg",
+    "spiceLevel": "medium",
+    "tags": [
+      "hilsa",
+      "mustard gravy"
+    ],
+    "imageCategory": "biryani",
+    "image": "/images/ShorsheIlish.jpeg"
+  },
+  {
+    "kitchenName": "Bengal Bhog",
+    "name": "Aloo Posto with Rice",
+    "description": "",
+    "price": 99,
+    "category": "lunch",
+    "dietType": "veg",
+    "spiceLevel": "mild",
+    "tags": [
+      "poppy seed",
+      "potatoes"
+    ],
+    "imageCategory": "rice",
+    "image": "/images/AlooPostowithRice.jpeg"
+  },
+  {
+    "kitchenName": "Bengal Bhog",
+    "name": "Mishti Doi",
+    "description": "",
+    "price": 49,
+    "category": "snacks",
+    "dietType": "veg",
+    "spiceLevel": "mild",
+    "tags": [
+      "sweet yogurt",
+      "jaggery"
+    ],
+    "imageCategory": "dessert",
+    "image": "/images/MishtiDoi.jpeg"
+  }
+]

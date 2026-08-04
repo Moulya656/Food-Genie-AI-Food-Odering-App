@@ -1,0 +1,77 @@
+[
+  {
+    "kitchenName": "Amma's Tiffin",
+    "ownerName": "Lakshmi Rao",
+    "story": "Three generations of South Indian home cooking, now delivered daily.",
+    "cuisineTypes": [
+      "South Indian",
+      "Tiffin"
+    ],
+    "region": "Karnataka",
+    "city": "Mysuru",
+    "servesNonVeg": false,
+    "rating": 4.8,
+    "numReviews": 132,
+    "avgPrepTimeMins": 25,
+    "deliveryFee": 15,
+    "minOrderValue": 79,
+    "imageCategory": "dosa",
+    "image": "/images/Amma'sTiffin.png"
+  },
+  {
+    "kitchenName": "Punjab Rasoi",
+    "ownerName": "Gurpreet Singh",
+    "story": "Ghee-rich curries and tandoori rotis straight from a family dhaba.",
+    "cuisineTypes": [
+      "North Indian",
+      "Punjabi"
+    ],
+    "region": "Punjab",
+    "city": "Bengaluru",
+    "servesNonVeg": true,
+    "rating": 4.6,
+    "numReviews": 98,
+    "avgPrepTimeMins": 35,
+    "deliveryFee": 25,
+    "minOrderValue": 129,
+    "imageCategory": "butter-chicken",
+    "image": "/images/PunjabiRasoi.png"
+  },
+  {
+    "kitchenName": "Coastal Curry House",
+    "ownerName": "Fatima Kutty",
+    "story": "Malabar-style seafood and coconut curries made the old-fashioned way.",
+    "cuisineTypes": [
+      "Malabar",
+      "Seafood"
+    ],
+    "region": "Kerala",
+    "city": "Kochi",
+    "servesNonVeg": true,
+    "rating": 4.7,
+    "numReviews": 76,
+    "avgPrepTimeMins": 40,
+    "deliveryFee": 30,
+    "minOrderValue": 149,
+    "imageCategory": "biryani",
+    "image": "/images/CoastalCurryHouse.png"
+  },
+  {
+    "kitchenName": "Bengal Bhog",
+    "ownerName": "Ananya Bose",
+    "story": "Mustard-forward Bengali classics and a legendary mishti doi.",
+    "cuisineTypes": [
+      "Bengali"
+    ],
+    "region": "West Bengal",
+    "city": "Kolkata",
+    "servesNonVeg": true,
+    "rating": 4.5,
+    "numReviews": 61,
+    "avgPrepTimeMins": 30,
+    "deliveryFee": 20,
+    "minOrderValue": 99,
+    "imageCategory": "rice",
+    "image": "/images/BengalBhog.png"
+  }
+]

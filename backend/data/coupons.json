@@ -1,0 +1,22 @@
+[
+  {
+    "code": "WELCOME50",
+    "discountType": "flat",
+    "discountValue": 50,
+    "minOrderValue": 150,
+    "maxUses": 500,
+    "usedCount": 0,
+    "expiresAt": "2026-12-31T00:00:00.000Z",
+    "active": true
+  },
+  {
+    "code": "TIFFIN10",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minOrderValue": 100,
+    "maxUses": 1000,
+    "usedCount": 0,
+    "expiresAt": "2026-12-31T00:00:00.000Z",
+    "active": true
+  }
+]
